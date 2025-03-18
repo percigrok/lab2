@@ -49,3 +49,24 @@
 1. [Itertools](https://docs.python.org/3/library/itertools.html#itertools.product).
 2. [Первод числа](https://ru.stackoverflow.com/questions/1297746/%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC-%D1%81%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F).
 3. [Циклы](https://metanit.com/python/tutorial/2.7.php).
+
+
+
+# Отчет лаб 2 **MEDIUM**
+
+
+* Реализовал доктесты для своих функций
+* Проверка аргументов функций
+
+![image](https://github.com/user-attachments/assets/2772d3c3-cd54-45a2-8d9f-5711f2a5be56)
+
+
+
+
+[doctest python](https://docs.python.org/3/library/doctest.html).
+[Testing in Python using Doctest module](https://www.geeksforgeeks.org/testing-in-python-using-doctest-module/).
+
+
+
+
+  
