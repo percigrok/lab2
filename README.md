@@ -52,20 +52,6 @@
 
 
 
-# Отчет лаб 2 **MEDIUM**
-
-
-* Реализовал доктесты для своих функций
-* Проверка аргументов функций
-
-![image](https://github.com/user-attachments/assets/2772d3c3-cd54-45a2-8d9f-5711f2a5be56)
-
-
-
-
-[doctest python](https://docs.python.org/3/library/doctest.html).
-
-[Testing in Python using Doctest module](https://www.geeksforgeeks.org/testing-in-python-using-doctest-module/).
 
 
 
